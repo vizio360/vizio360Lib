@@ -1,0 +1,5 @@
+.as3_classpath
+.project
+.settings
+bin/*.swf
+bin/*-app.xml
